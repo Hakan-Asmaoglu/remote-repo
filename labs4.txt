@@ -1,1 +1,1 @@
-Local repository addition and commit.
+Local repository addition and commit. Local repo connected to remote repo and committed.
